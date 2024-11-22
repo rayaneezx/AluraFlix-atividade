@@ -1,20 +1,21 @@
 body{
     backgroud-color: black;
-    color: rgb(255 255 255);
-
-
-heder{
+    color:rgb(255,255,255);
+}
+header{
     font-size: 30px;
 
-
+}
 
 .chamada{
-    background-color: rgb(22 22 22)
+    background-color: rgb(65, 46, 46);
+    padding-top: 70px;
+    padding-bottom: 70px;
     display: flex; /*torna a seção flexivel deixando um do lado do outro*/
     justify-content: center; 
+}
 
-
-.chamada texto{
-    margin-right: 5%
+.chamada-texto{
+    margin-right: 5%;
     font-size: 200%;
 }
